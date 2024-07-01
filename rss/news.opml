@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml xmlns:frss="https://freshrss.org/opml" version="2.0">
+  <head>
+    <title>新闻</title>
+  </head>
+  <body>
+    <outline text="中国新闻周刊">
+      <outline text="人物" type="rss" xmlUrl="http://140.143.146.126:41200/inewsweek/people" htmlUrl="http://news.inewsweek.cn/people" description="中国新闻周刊--人物"/>
+      <outline text="国际" type="rss" xmlUrl="http://140.143.146.126:41200/inewsweek/world" htmlUrl="http://news.inewsweek.cn/world" description="中国新闻周刊--国际 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)"/>
+      <outline text="封面" type="rss" xmlUrl="http://140.143.146.126:41200/inewsweek/cover" htmlUrl="http://news.inewsweek.cn/cover" description="中国新闻周刊--封面 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)"/>
+      <outline text="时政" type="rss" xmlUrl="http://140.143.146.126:41200/inewsweek/politics" htmlUrl="http://news.inewsweek.cn/politics" description="中国新闻周刊--时政 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)"/>
+      <outline text="社会" type="rss" xmlUrl="http://140.143.146.126:41200/inewsweek/society" htmlUrl="http://news.inewsweek.cn/society" description="中国新闻周刊--社会 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)"/>
+      <outline text="经济" type="rss" xmlUrl="http://140.143.146.126:41200/inewsweek/finance" htmlUrl="http://news.inewsweek.cn/finance" description="中国新闻周刊--经济 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)"/>
+      <outline text="调查" type="rss" xmlUrl="http://140.143.146.126:41200/inewsweek/survey" htmlUrl="http://news.inewsweek.cn/survey" description="中国新闻周刊--调查 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)"/>
+    </outline>
+    <outline text="参考消息">
+      <outline text="业界信息·观点" type="rss" xmlUrl="http://140.143.146.126:41200/cankaoxiaoxi/column/yjxx" htmlUrl="https://china.cankaoxiaoxi.com/#/generalColumns/yjxx" description="参考消息 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)"/>
+      <outline text="中国" type="rss" xmlUrl="http://140.143.146.126:41200/cankaoxiaoxi/column/zhongguo" htmlUrl="https://china.cankaoxiaoxi.com/#/generalColumns/zhongguo" description="参考消息 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)"/>
+      <outline text="体育健康" type="rss" xmlUrl="http://140.143.146.126:41200/cankaoxiaoxi/column/tiyujk" htmlUrl="https://china.cankaoxiaoxi.com/#/generalColumns/tiyujk" description="参考消息 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)"/>
+      <outline text="军事" type="rss" xmlUrl="http://140.143.146.126:41200/cankaoxiaoxi/column/junshi" htmlUrl="https://china.cankaoxiaoxi.com/#/generalColumns/junshi" description="参考消息 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)"/>
+      <outline text="参考人物" type="rss" xmlUrl="http://140.143.146.126:41200/cankaoxiaoxi/column/cankaorw" htmlUrl="https://china.cankaoxiaoxi.com/#/generalColumns/cankaorw" description="参考消息 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)"/>
+      <outline text="参考漫谈" type="rss" xmlUrl="http://140.143.146.126:41200/cankaoxiaoxi/column/cankaomt" htmlUrl="https://china.cankaoxiaoxi.com/#/generalColumns/cankaomt" description="参考消息 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)"/>
+      <outline text="参考视频" type="rss" xmlUrl="http://140.143.146.126:41200/cankaoxiaoxi/column/video" htmlUrl="https://china.cankaoxiaoxi.com/#/generalColumns/video" description="参考消息 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)"/>
+      <outline text="双语汇" type="rss" xmlUrl="http://140.143.146.126:41200/cankaoxiaoxi/column/ymsyh" htmlUrl="https://china.cankaoxiaoxi.com/#/generalColumns/ymsyh" description="参考消息 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)"/>
+      <outline text="国际" type="rss" xmlUrl="http://140.143.146.126:41200/cankaoxiaoxi/column/gj" htmlUrl="https://china.cankaoxiaoxi.com/#/generalColumns/gj" description="参考消息 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)"/>
+      <outline text="文化旅游" type="rss" xmlUrl="http://140.143.146.126:41200/cankaoxiaoxi/column/wenhualy" htmlUrl="https://china.cankaoxiaoxi.com/#/generalColumns/wenhualy" description="参考消息 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)"/>
+      <outline text="海外智库" type="rss" xmlUrl="http://140.143.146.126:41200/cankaoxiaoxi/column/hwzk" htmlUrl="https://china.cankaoxiaoxi.com/#/generalColumns/hwzk" description="参考消息 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)"/>
+      <outline text="海外看中国城市" type="rss" xmlUrl="http://140.143.146.126:41200/cankaoxiaoxi/column/hwkzgcs" htmlUrl="https://china.cankaoxiaoxi.com/#/generalColumns/hwkzgcs" description="参考消息 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)"/>
+      <outline text="研究动态" type="rss" xmlUrl="http://140.143.146.126:41200/cankaoxiaoxi/column/yjdt" htmlUrl="https://china.cankaoxiaoxi.com/#/generalColumns/yjdt" description="参考消息 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)"/>
+      <outline text="科技应用" type="rss" xmlUrl="http://140.143.146.126:41200/cankaoxiaoxi/column/kejiyy" htmlUrl="https://china.cankaoxiaoxi.com/#/generalColumns/kejiyy" description="参考消息 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)"/>
+      <outline text="第一关注" type="rss" xmlUrl="http://140.143.146.126:41200/cankaoxiaoxi/column/diyi" htmlUrl="https://china.cankaoxiaoxi.com/#/generalColumns/diyi" description="参考消息 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)"/>
+      <outline text="观点" type="rss" xmlUrl="http://140.143.146.126:41200/cankaoxiaoxi/column/guandian" htmlUrl="https://china.cankaoxiaoxi.com/#/generalColumns/guandian" description="参考消息 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)"/>
+      <outline text="译名发布" type="rss" xmlUrl="http://140.143.146.126:41200/cankaoxiaoxi/column/ymymfb" htmlUrl="https://china.cankaoxiaoxi.com/#/generalColumns/ymymfb" description="参考消息 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)"/>
+      <outline text="译名趣谈" type="rss" xmlUrl="http://140.143.146.126:41200/cankaoxiaoxi/column/ymymqt" htmlUrl="https://china.cankaoxiaoxi.com/#/generalColumns/ymymqt" description="参考消息 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)"/>
+      <outline text="锐参考" type="rss" xmlUrl="http://140.143.146.126:41200/cankaoxiaoxi/column/ruick" htmlUrl="https://china.cankaoxiaoxi.com/#/generalColumns/ruick" description="参考消息 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)"/>
+    </outline>
+    <outline text="央视新闻">
+      <outline text="国内" type="rss" xmlUrl="http://140.143.146.126:41200/cctv/china" htmlUrl="https://news.cctv.com/china" description="央视新闻 china - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)"/>
+      <outline text="国际" type="rss" xmlUrl="http://140.143.146.126:41200/cctv/world" htmlUrl="https://news.cctv.com/world" description="央视新闻 world - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)"/>
+      <outline text="教育" type="rss" xmlUrl="http://140.143.146.126:41200/cctv/edu" htmlUrl="https://news.cctv.com/edu" description="央视新闻 edu - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)"/>
+      <outline text="文娱" type="rss" xmlUrl="http://140.143.146.126:41200/cctv/ent" htmlUrl="https://news.cctv.com/ent" description="央视新闻 ent - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)"/>
+      <outline text="法治" type="rss" xmlUrl="http://140.143.146.126:41200/cctv/law" htmlUrl="https://news.cctv.com/law" description="央视新闻 law - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)"/>
+      <outline text="生活" type="rss" xmlUrl="http://140.143.146.126:41200/cctv/life" htmlUrl="https://news.cctv.com/life" description="央视新闻 life - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)"/>
+      <outline text="社会" type="rss" xmlUrl="http://140.143.146.126:41200/cctv/society" htmlUrl="https://news.cctv.com/society" description="央视新闻 society - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)"/>
+      <outline text="科技" type="rss" xmlUrl="http://140.143.146.126:41200/cctv/tech" htmlUrl="https://news.cctv.com/tech" description="央视新闻 tech - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)"/>
+    </outline>
+  </body>
+</opml>
